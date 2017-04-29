@@ -132,3 +132,6 @@ java.lang.NullPointerException
 
 !ENTRY com.android.ide.eclipse.adt 2 0 2017-04-27 10:12:03.055
 !MESSAGE No projects found for [/Volumes/MakPersonal/mayank/MyGithub/Java/HibernateBasics/src/hibernate.cfg.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2017-04-27 10:45:10.333
+!MESSAGE No projects found for [/Volumes/MakPersonal/mayank/MyGithub/Java/HibernateBasics/src/hibernate.cfg.xml]
